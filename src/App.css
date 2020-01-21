@@ -1,0 +1,36 @@
+.message {
+  width: 200px;
+  margin: 10px auto;
+}
+
+.sender {
+  font-size: .7em;
+  margin-bottom: 5px;
+}
+
+.timestamp { 
+  display: flex;
+  font-size: .7em;
+  justify-content: flex-end;
+  margin-top: 5px;
+}
+
+.Messages-list { 
+  list-style-type: none;
+  padding-inline-start: 0px;
+}
+
+.content {
+  background-color:#670717;
+  color: white;
+  border-radius: 15px;
+  padding: 10px;
+  display: flex; 
+  justify-content: center;
+}
+
+.header {
+  display: flex; 
+  justify-content: center;
+}
+
